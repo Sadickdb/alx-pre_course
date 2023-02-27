@@ -1,4 +1,1 @@
-the commands i used are
-1 git add
-2 git commit -m 'updating local'
-3 git pull
+git pull
